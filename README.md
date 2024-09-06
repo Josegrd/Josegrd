@@ -6,5 +6,5 @@
 💭 Currently learning about Fullstack Engineering!<br/>
 
 <!-- GitHub stats from httx  ps://github.com/anuraghazra/github-readme-stats -->
-[![JoseGrd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josegrd)](https://github.com/Josegrd/github-readme-stats)<br/>
+![JoseGrd's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseGrd&show_icons=true&theme=radical)<br/>
 
