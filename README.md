@@ -1,9 +1,9 @@
 
 # 👋 Hi, I'm Jose!
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech | 
-👩🏻‍🎓 I'm Self Studied | 
-🎨 Making Blog about Life and Hobbies | 
-💭 Currently learning about Fullstack Engineering!
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 I'm Self Studied<br/>
+🎨 Making Blog about Life and Hobbies<br/>
+💭 Currently learning about Fullstack Engineering!<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/josegardaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josegarda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@jsgrd8) 
