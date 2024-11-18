@@ -1,11 +1,9 @@
 
 # 👋 Hi, I'm Jose!
-<marquee behavior="scroll" direction="left">
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech | 
 👩🏻‍🎓 I'm Self Studied | 
 🎨 Making Blog about Life and Hobbies | 
 💭 Currently learning about Fullstack Engineering!
-</marquee>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/josegardaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josegarda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@jsgrd8) 
