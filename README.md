@@ -1,7 +1,7 @@
 
 # ☕ Spada!, I'm Jose!
 🎮 Software Engineer | 🚀 Self-Taught Enthusiast <br/>
-🎨 Blogger on Life & Hobbies | 📱 On Going Learn Mobile Developer
+🎨 Blogger on Life & Hobbies | 🐍 ERP Developer using Python
 
 ## ✨ About Me
 Hello there! I'm Jose, a passionate software engineer with a love for learning and creating. My journey in tech has been self-driven, fueled by curiosity and a desire to build impactful solutions. When I’m not in front of my code editor, you can find me exploring new hobbies or sharing my experiences on my blog or my socials.
