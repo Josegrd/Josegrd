@@ -7,7 +7,6 @@
 Hello there! I'm Jose, a passionate software engineer with a love for learning and creating. My journey in tech has been self-driven, fueled by curiosity and a desire to build impactful solutions. When I’m not in front of my code editor, you can find me exploring new hobbies or sharing my experiences on my blog or my socials.
 
 ## 🌐 Let’s Connect!:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@jsgrd8) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/josegardaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josegarda) 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
